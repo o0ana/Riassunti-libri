@@ -15,8 +15,8 @@ Qui raccolgo i riassunti dei libri che leggo. Non sono semplici sintesi concettu
 
 <div class="libro">
   <a href="/Riassunti-libri/riassunti/qui-ed-ora/">
-    <span class="titolo">Qui ed ora</span>
-    <span class="sottotitolo">Strategie quotidiane di mindfulness</span>
-    <span class="autore">di Ronald D. Siegel</span>
+    <span class="titolo">Qui ed ora : </span>
+    <span class="sottotitolo">Strategie quotidiane di mindfulness.</span>
+    <span class="autore"> Ronald D. Siegel</span>
   </a>
 </div>
