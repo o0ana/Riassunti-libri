@@ -4,20 +4,20 @@ title: "Qui ed ora: Strategie quotidiane di mindfulness"
 permalink: /riassunti/qui-ed-ora/
 ---
 
-<h1 style="font-size: 2.5rem; font-weight: 300; letter-spacing: -0.5px; margin-bottom: 4px;">Qui ed ora</h1>
+<div class="libro-header">
+  <h1>Qui ed ora</h1>
+  <p class="sottotitolo">Strategie quotidiane di mindfulness</p>
+  <p class="autore">di Ronald D. Siegel</p>
+</div>
 
-<p style="color: #888; font-size: 1.1rem; margin-top: 0; margin-bottom: 4px;">Strategie quotidiane di mindfulness</p>
-
-<p style="color: #aaa; font-size: 0.85rem; font-style: italic; margin-top: 0; margin-bottom: 40px;">di Ronald D. Siegel</p>
-
-<nav style="background: #fafafa; padding: 16px 20px; margin-bottom: 50px; border-radius: 4px;">
-  <div style="font-size: 0.75rem; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; color: #888; margin-bottom: 10px;">In questa pagina</div>
-  <a href="#capitolo-1" style="display: block; padding: 4px 0; color: #444;">→ Capitolo 1</a>
+<nav class="indice">
+  <div class="label">In questa pagina</div>
+  <a href="#capitolo-1">→ Capitolo 1</a>
 </nav>
 
-<article id="capitolo-1" style="margin-bottom: 80px;">
+<article id="capitolo-1" class="capitolo" markdown="1">
 
-<h2 style="font-size: 1.8rem; font-weight: 400; border-bottom: 2px solid #333; padding-bottom: 8px; margin-top: 0; margin-bottom: 30px;">Capitolo 1</h2>
+## Capitolo 1
 
 La vita è difficile per tutti. Sebbene la maggior parte delle persone viva una vita privilegiata rispetto a molte altre, le preoccupazioni, le ansie e i pensieri negativi non fanno eccezioni in base allo status sociale, all'età o alla provenienza. La felicità è possibile, ma resta opzionale: facciamo davvero una fatica enorme a essere felici e, troppo spesso, ci limitiamo a sopravvivere.
 
@@ -27,6 +27,4 @@ I pensieri che generano più rumore interiore riguardano quasi sempre il cambiam
 
 A peggiorare la situazione interviene la società, che ci insegna a inseguire il successo. Da qui nascono criteri personali con cui giudichiamo una persona "di successo", ma il paradosso è che questi criteri coincidono proprio con le tematiche che ci procurano più infelicità. Lo stesso meccanismo vale per gli obiettivi: spostiamo continuamente la felicità nel futuro e, mano a mano che li raggiungiamo, ne fissiamo di sempre più difficili, innescando un ciclo vizioso in cui non saremo mai pienamente soddisfatti.
 
-La sofferenza e l'insoddisfazione che attribuiamo ai "nostri errori" generano poi un senso di colpa che, unito al confronto con gli altri, ci fa sentire ancora più piccoli. Persino parlare della propria situazione con le persone a noi più vicine, quando pensiamo che stiano meglio di noi, finisce per creare una classificazione implicita che ci ferisce ulteriormente.
-
-</article>
+La sofferenza e l'insoddisfazione che attribuiamo ai "nostri errori" generano poi un senso di colpa che, unito al confronto con gli altri, ci fa sentire ancora più piccoli. Persino parlare della propria situazione con le persone a noi più vicine, quando pensiamo che stiano meglio di noi, finisce per creare una classificazione implicita che c
