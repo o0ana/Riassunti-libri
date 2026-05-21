@@ -21,6 +21,40 @@
     }
     a { color: #222; text-decoration: none; }
     h1, h2, h3 { font-weight: 400; }
+    
+    /* Stile dei libri nella lista */
+    .libro {
+      border-bottom: 1px solid #eee;
+    }
+    .libro a {
+      display: block;
+      padding: 24px 0;
+      transition: padding-left 0.2s ease;
+    }
+    .libro a:hover {
+      padding-left: 12px;
+      background: #fafafa;
+    }
+    .libro .titolo {
+      display: block;
+      font-size: 1.3rem;
+      font-weight: 500;
+      margin-bottom: 4px;
+      color: #222;
+    }
+    .libro .sottotitolo {
+      display: block;
+      font-size: 0.95rem;
+      color: #888;
+    }
+    .libro .autore {
+      display: block;
+      font-size: 0.8rem;
+      color: #aaa;
+      font-style: italic;
+      margin-top: 6px;
+    }
+    
     @media (max-width: 600px) {
       .container { padding: 40px 20px; }
     }
