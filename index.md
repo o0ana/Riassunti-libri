@@ -13,4 +13,9 @@ Qui raccolgo i riassunti dei libri che leggo. Non sono semplici sintesi concettu
 
 <h2 style="font-size: 0.85rem; font-weight: 600; letter-spacing: 3px; text-transform: uppercase; color: #555; border-bottom: 1px solid #ddd; padding-bottom: 12px; margin-top: 0;">Libri</h2>
 
-<a href="/Riassunti-libri/riassunti/qui-ed-ora/" style="display: block; padding: 24px 0; border-bottom: 1px solid #eee; color: #222;"><div style="font-size: 1.3rem; font-weight: 500; margin-bottom: 4px;">Qui ed ora</div><div style="font-size: 0.95rem; color: #888;">Strategie quotidiane di mindfulness</div></a>
+<div class="libro">
+  <a href="/Riassunti-libri/riassunti/qui-ed-ora/">
+    <span class="titolo">Qui ed ora</span>
+    <span class="sottotitolo">Strategie quotidiane di mindfulness</span>
+  </a>
+</div>
