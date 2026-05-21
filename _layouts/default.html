@@ -21,8 +21,8 @@
     }
     a { color: #222; text-decoration: none; }
     h1, h2, h3 { font-weight: 400; }
-    
-    /* Stile dei libri nella lista */
+
+    /* === HOMEPAGE: lista libri === */
     .libro {
       border-bottom: 1px solid #eee;
     }
@@ -54,21 +54,75 @@
       font-style: italic;
       margin-top: 6px;
     }
+
+    /* === PAGINA LIBRO: intestazione === */
+    .libro-header {
+      margin-bottom: 50px;
+    }
+    .libro-header h1 {
+      font-size: 2.5rem;
+      font-weight: 300;
+      letter-spacing: -0.5px;
+      margin: 0 0 4px 0;
+    }
+    .libro-header .sottotitolo {
+      color: #888;
+      font-size: 1.1rem;
+      margin: 0 0 4px 0;
+    }
+    .libro-header .autore {
+      color: #aaa;
+      font-size: 0.85rem;
+      font-style: italic;
+      margin: 0;
+    }
+
+    /* === PAGINA LIBRO: indice === */
+    .indice {
+      background: #fafafa;
+      padding: 16px 20px;
+      margin-bottom: 60px;
+      border-radius: 4px;
+    }
+    .indice .label {
+      font-size: 0.75rem;
+      font-weight: 600;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: #888;
+      margin-bottom: 10px;
+    }
+    .indice a {
+      display: block;
+      padding: 4px 0;
+      color: #444;
+    }
+    .indice a:hover {
+      color: #000;
+      padding-left: 6px;
+    }
+
+    /* === PAGINA LIBRO: capitoli === */
     .capitolo {
-  margin-bottom: 80px;
-}
-.capitolo h2 {
-  font-size: 1.8rem;
-  font-weight: 400;
-  border-bottom: 2px solid #333;
-  padding-bottom: 8px;
-  margin-top: 0;
-  margin-bottom: 30px;
-}
-.capitolo p {
-  margin: 0;
-  text-align: justify;
-}
+      margin-bottom: 80px;
+    }
+    .capitolo h2 {
+      font-size: 1.8rem;
+      font-weight: 400;
+      border-bottom: 2px solid #333;
+      padding-bottom: 8px;
+      margin-top: 0;
+      margin-bottom: 30px;
+    }
+    .capitolo p {
+      margin: 0 0 14px 0;
+      text-align: justify;
+    }
+    .capitolo p:last-child {
+      margin-bottom: 0;
+    }
+
+    /* === MOBILE === */
     @media (max-width: 600px) {
       .container { padding: 40px 20px; }
     }
